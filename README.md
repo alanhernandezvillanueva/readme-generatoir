@@ -1,40 +1,26 @@
 
     
-# vn rv bffjv rbv'j d vrjdv rjd
+# Read me file  generator 
 
-## Table of Contents
-
-* [Description](#Description)
-* [Dependencies](#Dependencies)
-* [Testing](#Testing)
-* [Contribution](#Contribution)
-* [About](#About)
-* [Licenses](#Licenses)
 
 
 ## Description 
-vj fad;ckj vrf j rj fcrvjfk 
+Created with node.js JS 
+
 
 ### About 
-u4fev hdnbfiuejkndsbv ihdn
+Application creates a detailed README file usinng qurestions to the user and inpiting them in the file 
 
     
 ## Dependencies 
 
-ibv fbjv;lr fjv fn jfm rvff
+inquirer
 
     
-## Testing 
-rfhiv dknbvjer dvbuje kdfv j
 
     
 ### Contribution 
-uefjbkv uik4jebnvd uifkjrvbdubdjkv
+Alan Hernandez
 
-### Licenses 
-
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-
-https://opensource.org/licenses/MIT
 
     
